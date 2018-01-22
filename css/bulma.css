@@ -702,7 +702,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   user-select: none; }
 
 .navbar {
-  background-color: #ddd;
+  background-color: white;
   min-height: 3.25rem;
   position: relative; }
   .navbar.is-white {
@@ -1228,7 +1228,7 @@ a.navbar-link.is-active {
     align-items: center;
     display: flex; }
   .navbar-menu {
-    background-color: #ddd;
+    background-color: white;
     box-shadow: 0 8px 16px rgba(10, 10, 10, 0.1);
     padding: 0.5rem 0; }
     .navbar-menu.is-active {
